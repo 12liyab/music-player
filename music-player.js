@@ -25,7 +25,7 @@ const songs = [
         image: "./album-art1.jpg",
         name: "12 Days of Christmas",
         artist: "Traditional",
-        audio: "./12-days-of-christmas.mp3",
+        audio: "./12 days-of-xmas.mp3",
     },
     {
         image: "./album-art3.jpg",
