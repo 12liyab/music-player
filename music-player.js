@@ -10,6 +10,12 @@ const nextSongButton = document.getElementById("next-song");
 
 const songs = [
     {
+        image: "./album-art6jpeg.jpeg.jpeg",
+        name: "O Christmas Tree",
+        artist: "Jeanette Winterson",
+        audio: "./O Christmas Tree.mp3",
+    },
+    {
         image: "./album-art1.jpg",
         name: "Deck The Halls",
         artist: "John Parry",
@@ -22,10 +28,16 @@ const songs = [
         audio: "./jingle-bells.mp3"
     },
     {
-        image: "./album-art1.jpg",
+        image: "./album-art4.jpeg",
         name: "12 Days of Christmas",
         artist: "Traditional",
         audio: "./12 days-of-xmas.mp3",
+    },
+    {
+        image: "./album-art5jpeg.jpeg",
+        name: "Feliz Navidad",
+        artist: "Jose Feliciano",
+        audio: "./Feliz Navidad.mp3",
     },
     {
         image: "./album-art3.jpg",
